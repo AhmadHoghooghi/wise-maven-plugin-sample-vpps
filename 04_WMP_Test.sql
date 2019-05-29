@@ -20,3 +20,7 @@ drop table TST_TAG;
 drop table TST_STRINGIDENTIFIER;
 drop table TST_Validations;
 drop table TST_CriticInfo;
+
+-- Slave-Master (aggregation)
+drop table TST_Kitchen;
+drop TABLE TST_HOME;
