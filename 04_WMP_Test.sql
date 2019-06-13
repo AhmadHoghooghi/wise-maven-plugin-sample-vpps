@@ -31,3 +31,6 @@ drop table TST_TASK;
 drop table TST_teacher;
 drop table TST_Employee;
 drop table TST_Company;
+
+-- file field
+drop table TST_FILECONTAINER;
