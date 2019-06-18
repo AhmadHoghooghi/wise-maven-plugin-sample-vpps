@@ -34,3 +34,7 @@ drop table TST_Company;
 
 -- file field
 drop table TST_FILECONTAINER;
+-- clob field
+drop table TST_CLOBContainer;
+-- date time field
+drop table TST_DATETIMECONTAINER
